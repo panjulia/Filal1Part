@@ -1,0 +1,15 @@
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.csproj.AssemblyReference.cache
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.AssemblyInfoInputs.cache
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.AssemblyInfo.cs
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Lesson\Z21\bin\Debug\net6.0\Z21.exe
+C:\Users\Julia\Lesson\Z21\bin\Debug\net6.0\Z21.deps.json
+C:\Users\Julia\Lesson\Z21\bin\Debug\net6.0\Z21.runtimeconfig.json
+C:\Users\Julia\Lesson\Z21\bin\Debug\net6.0\Z21.dll
+C:\Users\Julia\Lesson\Z21\bin\Debug\net6.0\Z21.pdb
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.dll
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\refint\Z21.dll
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.pdb
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\Z21.genruntimeconfig.cache
+C:\Users\Julia\Lesson\Z21\obj\Debug\net6.0\ref\Z21.dll
