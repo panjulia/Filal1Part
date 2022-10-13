@@ -1,0 +1,15 @@
+C:\Users\Julia\Lesson\Z23\bin\Debug\net6.0\Z23.exe
+C:\Users\Julia\Lesson\Z23\bin\Debug\net6.0\Z23.deps.json
+C:\Users\Julia\Lesson\Z23\bin\Debug\net6.0\Z23.runtimeconfig.json
+C:\Users\Julia\Lesson\Z23\bin\Debug\net6.0\Z23.dll
+C:\Users\Julia\Lesson\Z23\bin\Debug\net6.0\Z23.pdb
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.csproj.AssemblyReference.cache
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.AssemblyInfoInputs.cache
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.AssemblyInfo.cs
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.dll
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\refint\Z23.dll
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.pdb
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\Z23.genruntimeconfig.cache
+C:\Users\Julia\Lesson\Z23\obj\Debug\net6.0\ref\Z23.dll
