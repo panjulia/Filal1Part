@@ -1,0 +1,15 @@
+C:\Users\Julia\Lesson\Z25\bin\Debug\net6.0\Z25.exe
+C:\Users\Julia\Lesson\Z25\bin\Debug\net6.0\Z25.deps.json
+C:\Users\Julia\Lesson\Z25\bin\Debug\net6.0\Z25.runtimeconfig.json
+C:\Users\Julia\Lesson\Z25\bin\Debug\net6.0\Z25.dll
+C:\Users\Julia\Lesson\Z25\bin\Debug\net6.0\Z25.pdb
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.csproj.AssemblyReference.cache
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.AssemblyInfoInputs.cache
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.AssemblyInfo.cs
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.dll
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\refint\Z25.dll
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.pdb
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\Z25.genruntimeconfig.cache
+C:\Users\Julia\Lesson\Z25\obj\Debug\net6.0\ref\Z25.dll
