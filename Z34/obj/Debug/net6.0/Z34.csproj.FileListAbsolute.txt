@@ -1,0 +1,15 @@
+C:\Users\Julia\Lesson\Z34\bin\Debug\net6.0\Z34.exe
+C:\Users\Julia\Lesson\Z34\bin\Debug\net6.0\Z34.deps.json
+C:\Users\Julia\Lesson\Z34\bin\Debug\net6.0\Z34.runtimeconfig.json
+C:\Users\Julia\Lesson\Z34\bin\Debug\net6.0\Z34.dll
+C:\Users\Julia\Lesson\Z34\bin\Debug\net6.0\Z34.pdb
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.csproj.AssemblyReference.cache
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.AssemblyInfoInputs.cache
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.AssemblyInfo.cs
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.dll
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\refint\Z34.dll
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.pdb
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\Z34.genruntimeconfig.cache
+C:\Users\Julia\Lesson\Z34\obj\Debug\net6.0\ref\Z34.dll
