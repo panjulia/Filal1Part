@@ -25,6 +25,6 @@ int NZero(int[] array)
 }
 Console.Clear();
 Console.WriteLine("Введите массив чисел через запятую и пробел: ");
-string input = Console.ReadLine();
+string input = Console.ReadLine()!;
 int[] array = GetArrayFromString(input);
 Console.WriteLine($"Кол-во чисел больше 0: {NZero(array)} ");
