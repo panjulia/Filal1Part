@@ -54,5 +54,3 @@ int columns = int.Parse(Console.ReadLine()!);
 int[,] Array = GetArray(row, columns, 0, 10);
 PrintArray(Array);
 SrArif(Array);
-// Console.WriteLine();
-// PrintArray(Array);
