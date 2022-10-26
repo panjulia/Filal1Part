@@ -60,5 +60,3 @@ int Num = int.Parse(Console.ReadLine()!);
 int[,] Array = GetArray(row, columns, 0, 10);
 PrintArray(Array);
 NumArray(Array, Num);
-// Console.WriteLine();
-// PrintArray(Array);
